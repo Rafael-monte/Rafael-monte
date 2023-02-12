@@ -1,7 +1,7 @@
 ### Eae, tranquilo? Espero que sim
 
 Meu nome é Rafael Monteiro Zancanaro, tenho 20 anos, atuo como desenvolvedor profissionalmente há 2 anos mas programo desde os 15. Tenho diversos projetos em linguagens diferentes, desde as mais modernas:
-> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python: 
+> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python: 
 Já fiz alguns projetos pessoais de controle de rotinas em meu Sistema operacional, como também fiz projetos para a faculdade e tenho alguns repositórios disponíveis aqui no github.
 
 <!--
