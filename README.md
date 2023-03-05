@@ -1,4 +1,4 @@
-### Eae, tranquilo? Espero que sim
+### Eae, tranquilo? Espero que sim :mage_man:
 
 #### Meu nome é Rafael Monteiro Zancanaro, tenho 20 anos, atuo como desenvolvedor profissionalmente há mais de 2 anos mas programo desde os 15. Tenho diversos projetos em linguagens diferentes.
 
