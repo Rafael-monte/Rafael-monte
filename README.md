@@ -14,7 +14,7 @@
 
 #### :open_book: Estou aprendendo as seguintes linguagens:
 
-> [![My Skills](https://skillicons.dev/icons?i=dart,rust&theme=light)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=dart,rust,go&theme=light)](https://skillicons.dev)
 
 #### :hammer: E estou trabalhando com os seguintes frameworks atualmente:
 
